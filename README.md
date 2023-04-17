@@ -1,5 +1,4 @@
 # LIFT-CAM
----------------
 
 | **과제명** | **[PR] XAI-assisted Representation Learning** |
 |:---:|:---|
