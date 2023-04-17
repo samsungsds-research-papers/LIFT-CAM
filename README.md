@@ -1,5 +1,6 @@
 # LIFT-CAM
 ---------------
+<style>p{color:red;}</style>
 |과제명|[PR] XAI-assisted Representation Learning|
 | --- | --- |
 |목적| ICCV 2021 논문 코드 공개|
