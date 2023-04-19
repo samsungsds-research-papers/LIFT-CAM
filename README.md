@@ -1,5 +1,5 @@
 # LIFT-CAM
-Code for the ICCV 2021 paper: "Towards Better Explanations of Class Activation Mapping"
+Code for the ICCV 2021 paper: "Towards Better Explanations of Class Activation Mapping
 
 ### Introduction
 | 제목 | XAI-assisted Representation Learning |
